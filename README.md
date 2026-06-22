@@ -292,7 +292,7 @@ Frontend runs on: `http://localhost:3000`
 
 **Team Members:**
 - **Rachana A** - Full-stack Development, Database Design
-- **Priyanka M** - Database Queries
+- **Priyanka M P** - Database Queries
 
 **Course:** Database Management System (UE23CS351A)  
 **Institution:** PES University  
